@@ -1,7 +1,7 @@
 ---
 name: issuesTemplate
 about: 이슈템플릿제작
-title: 'feat: 기능별 진행상황'
+title: 'feat: ~기능 (ex) feat: 메인페이지 페이지네이션 기능 구현)'
 labels: ''
 assignees: ''
 
@@ -19,6 +19,8 @@ assignees: ''
 
 ~ 22.12.17 (토)
 
+
+<br>
 
 ## 기타 기재 사항
 ### (추가 의견이 있으면 아래에 남겨주세요)
