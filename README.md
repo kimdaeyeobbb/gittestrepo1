@@ -1,10 +1,17 @@
 
-# 회의록
+# 팀 규칙
 
-- [링크](https://github.com/kimdaeyeobbb/gittestrepo1/wiki)
+## issues & Projects
+
+- 기능별 작업 현황 공유: [issues](https://github.com/kimdaeyeobbb/gittestrepo1/issues)
 
 
-# 커밋 컨벤션
+## Wiki
+
+- [회의록 링크](https://github.com/kimdaeyeobbb/gittestrepo1/wiki)
+
+
+## 커밋 컨벤션
 
 ```plain text
 type: short summary   
@@ -18,7 +25,7 @@ type: short summary
 feat: 라이트 모드 기능 추가
 ```
 
-## 커밋 타입
+### 커밋 타입
 
 |커밋 타입|타입 설명|
 |:--:|:--|
@@ -33,7 +40,7 @@ feat: 라이트 모드 기능 추가
 
 <br>
 
-## 커밋 설명 규칙
+### 커밋 설명 규칙
 
 - 명령조의 현재시제를 사용한다 (과거형이나 3인칭 사용X)
   - changed(x), changes(x)
@@ -43,7 +50,7 @@ feat: 라이트 모드 기능 추가
 - 커밋 메시지의 각 줄은 50자를 넘기지 않는다
 
 
-<br>
+<br><br>
 
 # 프로젝트 설명은 아래에 기재
 
